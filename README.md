@@ -24,10 +24,12 @@ A fully functional e-commerce website for a grocery store, enabling users to bro
 
 
 2. Navigate to the project folder:
+   ```bash
    cd grocery-store-website
 
 
 4. Open the index.html file in your browser:
+   ```bash
    open index.html
 
   
