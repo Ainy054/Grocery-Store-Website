@@ -18,14 +18,16 @@ A fully functional e-commerce website for a grocery store, enabling users to bro
   - High-quality images for product visuals
  
   ## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ainy054/Grocery-Store-Website.git
 
-1. Clone the repository:  
-   git clone https://github.com/your-username/grocery-store-website.git
 
 2. Navigate to the project folder:
    cd grocery-store-website
 
-3. Open the index.html file in your browser:
+
+4. Open the index.html file in your browser:
    open index.html
 
   
