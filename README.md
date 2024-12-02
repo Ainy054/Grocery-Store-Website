@@ -28,9 +28,9 @@ A fully functional e-commerce website for a grocery store, enabling users to bro
    cd grocery-store-website
 
 
-4. Open the index.html file in your browser:
-   ```bash
-   open index.html
+3. Open the index.html file in your browser
+   
+   
 
   
 
